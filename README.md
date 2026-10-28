@@ -1,6 +1,6 @@
 # GuruHat
 
-**Free, open-source apps for Mac, Windows, Chrome and Firefox.** Small tools for the everyday moments that slow you down. No accounts, no subscriptions, no tracking.
+**Free, open-source apps for Mac, Windows, Android, Chrome and Firefox.** Small tools for the everyday moments that slow you down. No accounts, no subscriptions, no tracking.
 
 🌐 [guruhat.com](https://guruhat.com) · ✉️ [hello@guruhat.com](mailto:hello@guruhat.com)
 
@@ -12,6 +12,7 @@
 | [**PC Mode**](https://guruhat.com/apps/pcmode/) | Familiar Windows shortcuts on your Mac: Finder delete, cut and move, per-window ⌘Tab | macOS | [PCMode](https://github.com/getguruhat/PCMode) |
 | [**AI Meter**](https://guruhat.com/apps/ai-meter/) | Remaining Claude Code or Codex usage in the menu bar or tray, with the reset time | macOS · Windows | [macOS](https://github.com/getguruhat/ai-meter) · [Windows](https://github.com/getguruhat/ai-meter-windows) |
 | [**PriorityTab**](https://guruhat.com/apps/prioritytab/) | A reflective new tab: your most visited sites beside your bookmarks | Chrome · Firefox | [Chrome Web Store](https://chromewebstore.google.com/detail/prioritytab/jnapefohpemlolohoeenmmfdgjfppnpg) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/prioritytab/) |
+| [**HatChat**](https://guruhat.com/apps/hatchat/) | Your Instagram DMs and Messenger chats without the feed, Reels or Stories | Android | [HatChat](https://github.com/getguruhat/HatChat) |
 
 ## Why GuruHat?
 
