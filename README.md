@@ -13,6 +13,7 @@
 | [**AI Meter**](https://guruhat.com/apps/ai-meter/) | Remaining Claude Code or Codex usage in the menu bar or tray, with the reset time | macOS · Windows | [macOS](https://github.com/getguruhat/ai-meter) · [Windows](https://github.com/getguruhat/ai-meter-windows) |
 | [**PriorityTab**](https://guruhat.com/apps/prioritytab/) | A reflective new tab: your most visited sites beside your bookmarks | Chrome · Firefox | [Chrome Web Store](https://chromewebstore.google.com/detail/prioritytab/jnapefohpemlolohoeenmmfdgjfppnpg) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/prioritytab/) |
 | [**HatChat**](https://guruhat.com/apps/hatchat/) | Your Instagram DMs and Messenger chats without the feed, Reels or Stories | Android | [HatChat](https://github.com/getguruhat/HatChat) |
+| [**RateGuru**](https://guruhat.com/apps/rateguru/) | Ad-free currency converter for travelers that works offline | Android | [RateGuru](https://github.com/getguruhat/RateGuru) |
 
 ## Why GuruHat?
 
